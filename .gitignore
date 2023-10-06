@@ -55,3 +55,9 @@ tools/emscripten/emsdk
 *.dSYM/
 *.su
 
+.DS_Store
+platform/.bash_history
+platform/.sudo_as_admin_successful
+platform/.profile
+platform/.minilogue-xd.env_backup/session_37c244d6-2e13-4514-9005-a3aa7e24187c
+.vscode/settings.json
