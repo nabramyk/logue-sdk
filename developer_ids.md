@@ -27,6 +27,7 @@
  | --- | --- | 
  | 0x53564253 ('SVBS') | [Sinevibes](https://sinevib.es) |
  | 0x656B7544 ('ekuD') | [Oleg Burdaev](https://github.com/dukesrg) |
+ | 0x44756B65 ('Duke') | [Oleg Burdaev](https://github.com/dukesrg) |
  | 0x45444F55 ('EDOU') | [Edouard Digital](https://edouard.digital) |
  | 0x434E5452 ('CNTR') | [centrevillage](https://centrevillage.net) |
  | 0x65676773 ('eggs') | [hammondeggsmusic](https://hammondeggsmusic.ca) |
@@ -34,3 +35,5 @@
  | 0x46747a6c ('Ftzl') | [Deborah Pickett](https://www.icemoonprison.com/blog/?page_id=777) |
  | 0x4361644C ('CadL') | [CtrlAltDelete](https://ctrl-alt-delete.co.uk) |
  | 0x42636877 ('Bchw') | [boochow instruments](https://blog.boochow.com/logue) |
+ | 0x6d726672 ('mrfr') | [Eugene Chernyh](https://github.com/mrf-r) |
+ | 0x6C63776B ('lcwk') | [techno-cat](https://techno-cat.github.io) |
